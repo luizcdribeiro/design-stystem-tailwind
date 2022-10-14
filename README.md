@@ -57,6 +57,8 @@ Ferramentas utilizadas no projeto:
 * [Storybook](https://storybook.js.org/)
 * [Github Pages](https://pages.github.com/) 
 * [Node](https://nodejs.org/en/)
+* [MSW](https://mswjs.io/)
+
 
 
 ## 🎁 Expressões de gratidão
