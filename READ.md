@@ -2,6 +2,8 @@
 
 Nesse projeto o objetivo era criar um pequeno design system utilizando Storybook.
 
+[Visite o projeto](https://luizcdribeiro.github.io/design-stystem-tailwind/)
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
@@ -51,10 +53,10 @@ Utilizando @storybook/storybook-deployer foi possível o deploy automático do d
 
 Ferramentas utilizadas no projeto:
 
-* [React](https://pt-br.reactjs.org/) - React 
-* [Storybook](https://storybook.js.org/) - Storybook
-* [Github Pages](https://pages.github.com/) - Github Pages
-* [Node](https://nodejs.org/en/) - Node
+* [React](https://pt-br.reactjs.org/)  
+* [Storybook](https://storybook.js.org/)
+* [Github Pages](https://pages.github.com/) 
+* [Node](https://nodejs.org/en/)
 
 
 ## 🎁 Expressões de gratidão
