@@ -2,7 +2,7 @@
 
 Nesse projeto o objetivo era criar um pequeno design system utilizando Storybook.
 
-[Visite o projeto](https://luizcdribeiro.github.io/design-stystem-tailwind/)
+[Visite o projeto](https://luizcdribeiro.github.io/design-system-tailwind/)
 
 ## 🚀 Começando
 
